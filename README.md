@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - ⚡ I love to explore and experiment with different kinds of tools and technologies.
-- 🔭 I’m currently working on using ML Models to Classify and NLP models to Extract key data related to customer griviences. 
+- 🔭 I’m currently working on using AI Models and LLMs to create Agentic workflows for a variety of usecases. 
 - 🌱 I’m currently learning how to effectively utilize transformer based machine learning techniques such as BERT in the NLP space
 - :earth_africa: I hope to use all that I learn to one day help make the world a climate friendly, kind and awesome place :D
 
