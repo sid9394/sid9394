@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - ⚡ I love to explore and experiment with different kinds of tools and technologies.
 - 🔭 I’m currently working as an AI Engineer using AI Models and LLMs to create Agentic workflows for a variety of usecases. 
-- 🌱 I’m also constantly growing by doind various courses to learn and build some cool stuff.
+- 🌱 I’m also constantly growing by doing various courses to learn and build some cool stuff.
 - :earth_africa: I hope to use all that I learn to one day help make the world a climate friendly, kind and awesome place :D
 
 - 📫 You can reach out to me via:  
